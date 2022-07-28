@@ -1,0 +1,14 @@
+Package: assignment1.2
+Title: Assignment First Attempt
+Version: 0.0.0.9000
+Authors@R: 
+    person("Robert", "Tomkies", , "tomkierobe@myvuw.ac.nz", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0002-8446-3111"))
+Description: This package includes 3 random functions that illistrate package development. The first returns the add, subtract, multiple and divide of all provided numbers.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.1
+Suggests: 
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
