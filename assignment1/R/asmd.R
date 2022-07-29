@@ -3,6 +3,7 @@
 #' @param numbers Input vector of numbers to add together, subtract from 0, multiply together or divide 1 by
 #'
 #' @return Returns 4 componants, add, divide, multiple and subtract that contain the return values
+#' @keywords mathematics
 #' @export
 #'
 #' @examples asmd(c(1,2,3,4,5))

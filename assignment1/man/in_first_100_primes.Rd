@@ -18,3 +18,4 @@ first 100 primes
 \examples{
 in_first_100_primes(number = 15)
 }
+\keyword{prime}
