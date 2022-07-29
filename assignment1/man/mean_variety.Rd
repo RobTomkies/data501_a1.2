@@ -18,3 +18,4 @@ mean_variety
 \examples{
 mean_variety(numbers = c(1,2,3,4,5))
 }
+\keyword{mean}
